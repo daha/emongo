@@ -1,4 +1,4 @@
--include_lib("emongo_public.hrl").
+-include_lib("emongo/include/emongo_public.hrl").
 
 -define(CONN_TIMEOUT, 5000).
 -define(OP_REPLY, 1).
